@@ -1,0 +1,72 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	font-family: "antic-didone";
+	color: #FFFFFF;
+}
+h1{
+	color: #65B8EC;
+}
+#bienvenidos{
+	background-image:url(../img/assorted-ingredient-cooking_23-2147749527.jpg);
+	text-align: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+}
+#bienvenidos h1{
+	padding-top: 250px;
+	font-size: 60px;
+}
+#bienvenidos h2{
+	padding-bottom: 170px;
+	font-size: 18px;
+}
+#servicios{
+	background-color: #212121;
+	text-align: center;
+}
+#servicios h1{
+	font-size: 60px;
+	padding-top: 10px;
+}
+#servicios h2{
+	font-size: 18px;
+	padding-top: 40px;
+	padding-right: 70px;
+	padding-left: -35px;
+}
+h4{
+	font-size: 14px;
+}
+#conoce{
+	background-color: #212121;
+	text-align: center;
+}
+#conoce h1{
+	font-size: 60px;
+	padding-top: 10px;
+	 }
+#conoce h2{
+	font-size: 18px;
+	padding-top: 40px;
+	padding-right: 70px;
+}
+#contact{
+background-color: #212121;
+	text-align: center;
+	padding-top: 25px;
+	padding-left: 25px;
+}
+footer{
+	color: #FFFFFF;
+	background-color: #BC11C7;
+	padding: 2px;
+	height: 60px;
+}
+
+footer h4{
+	text-align: center;
+	font-size: 15px;
+	padding-top: 5px;
+}
